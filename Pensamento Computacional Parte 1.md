@@ -2,7 +2,6 @@
 
 <p> Neste repositório eu faço um _walkthrough_ pela área de pensamento computacional e te mostro como pensar computacionalmente e aprender algoritmos e métodos de buscas e navegação não precisa ser algo de outro mundo! </p>
 
-___
 
 ## Introdução
 
@@ -24,7 +23,7 @@ Agora, ao pensar em uma pessoa (a mesma que participa de eleições e faz parte 
 
 Para isso, precisamos estabelecer quais são as características do pensamento computacional.
 
-____
+
 
 ## Pilares do Pensamento Computacional
 
@@ -44,7 +43,7 @@ Mas para que a solução seja pensada computacionalmente, existem alguns pilares
 
 Assim, os pilares de pensamento computacional são aplicados para formular problemas e resolvê-los, seja você uma pessoa, seja você um computador, um celular, um dispositivo computadorizado da NASA, etc. O processo de passo a passo é o mesmo! E é nesse momento que entram os **algoritmos**.
 
-____
+
 
 ## Algoritmos
 
@@ -65,7 +64,5 @@ Para escrever um algoritmo existem várias formas, sendo elas as mais comuns:
 + Código, ou linguagem de programação (neste caso, quem irá interpretar seu algoritmo será um agente computacional)
 
 Alguns exemplos de algoritmos comuns que diariamente realizamos são: escovar os dentes, preparar uma refeição, dirigir um automóvel, montar um móvel, escrever um texto ou e-mail, etc. 
-
-___
 
 
