@@ -9,7 +9,7 @@ A primeira pergunta que podemos nos fazer ao nos depararmos com as palavras _pen
 
 Isso porque muitas pessoas acreditam que pensar computacionalmente é realizar uma tarefa complexa, que envolve uma função requerendo o uso de uma máquina computadorizada. 
 
-O termo, apesar de dar a entender tais coisas, pode ser definido, de acordo com a pesquisadora e vice-presidente da Microsoft Research, como **a base para a identificação de problemas e soluções que podem ser efetivadas tanto por processadores quanto por seres humanos**. 
+O termo, apesar de dar a entender tais coisas, pode ser definido, de acordo com a pesquisadora e vice-presidente da Microsoft Research Jeannette Wing, como **a base para a identificação de problemas e soluções que podem ser efetivadas tanto por processadores quanto por seres humanos**. 
 
 Para compreender a base do pensamento computacional, pensemos o seguinte: o que uma urna eletrônica e uma pessoa preparando uma receita de bolo têm em comum?
 
@@ -39,9 +39,13 @@ Mas para que a solução seja pensada computacionalmente, existem alguns pilares
 
 4. **Explicitar o algoritmo de resolução do problema:** por fim, produzir o algoritmo em "uma sequência de instruções não ambíguas para resolver um problema de forma a produzir, em um período de tempo finito, a saída correspondente para qualquer entrada legítima". 
 
+Retornando aos exemplos da urna eletrônica e da pessoa preparando uma receita de bolo, em ambos os casos todos os pilares do pensamento computacional são realizados a fim de executar as tarefas propostas.
 
+Para a urna eletrônica funcionar, primeiro precisa-se **decompor** a tarefa em subtarefas: digitar os números um de cada vez e após isso, apertar a tecla corrige. Caso o número que se tenha apertado seja o incorreto, pode-se corrigir apertando a tecla "corrige". Caso o eleitor deseje votar nulo, existe a possibilidade de apertar a tecla "nulo". Percebe-se que há um **padrão recorrente** em todas estas tarefas, que é a de se utilizar teclas para executá-las, em uma determinada ordem. Também podemos **abstrair** tais tarefas de modo que listamos o que é necessário para executá-las, ou seja, realizar o processo de voto. Ao final de tudo, é notável que temos um **algoritmo** estabelecido!
 
-Assim, os pilares de pensamento computacional são aplicados para formular problemas e resolvê-los, seja você uma pessoa, seja você um computador, um celular, um dispositivo computadorizado da NASA, etc. O processo de passo a passo é o mesmo! E é nesse momento que entram os **algoritmos**.
+Agora, uma pessoa fazendo uma [receita de bolo de chocolate](https://www.panelinha.com.br/receita/Bolo-de-chocolate-com-ganache), de maneira semelhante, precisa estabelecer um algoritmo para executar a tarefa proposta, qual seja, a de ao final, ter um ótimo bolo para saborear! Para isso, a tarefa precisa ser **decomposta** em tarefas menores, como a de selecionar os ingredientes necessários e suas quantidades, utensílios, etc. Além disso, a receita precisa ser seguida em um determinado **padrão recorrente** para funcionar, **abstraindo** as ações e os resultados posteriores após a listagem feita. 
+
+Assim, os pilares de pensamento computacional são aplicados para formular problemas e resolvê-los, seja você uma pessoa, seja você um computador, um celular, um dispositivo computadorizado da NASA, um grupo de pessoas, etc. O processo de passo a passo é o mesmo! E é nesse momento que entram os **algoritmos**, explicados a seguir.
 
 
 
@@ -65,4 +69,15 @@ Para escrever um algoritmo existem várias formas, sendo elas as mais comuns:
 
 Alguns exemplos de algoritmos comuns que diariamente realizamos são: escovar os dentes, preparar uma refeição, dirigir um automóvel, montar um móvel, escrever um texto ou e-mail, etc. 
 
+## Mãos na massa! 🙌
 
+Agora que compreendemos sobre como podemos exercitar o nosso processo de pensar computacionalmente e montar algoritmos, por que não testar nossas habilidades com alguns exercícios práticos?
+
+Abaixo recomendo alguns sites que podem ser úteis nessa jornada de construção de uma base sólida de lógica e lógica de programação, para que assim você se torne mais do que um bom profissional na área de Tecnologia, mas uma pessoa capaz de resolver problemas e encontrar soluções criativas e focadas em uma lógica racional para qualquer tipo de problema.
+
++ [ProjectEuler](https://projecteuler.net/)
++ [HackerRank](https://www.hackerrank.com/)
++ [CodeWars](https://www.codewars.com/)
++ [Codility](https://www.codility.com/)
+
+**Bons estudos e até o próximo módulo! Acompanhe o projeto e deixe a ⭐ para apoiá-lo!**
