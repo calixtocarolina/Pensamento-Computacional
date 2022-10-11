@@ -1,6 +1,6 @@
 # Pensamento Computacional :computer:
 
-<p> Neste repositório eu faço um _walkthrough_ pela área de pensamento computacional e te mostro como pensar computacionalmente e aprender algoritmos e métodos de buscas e navegação não precisa ser algo de outro mundo! </p>
+<p> Neste repositório eu faço um walkthrough pela área de pensamento computacional e te mostro como pensar computacionalmente e aprender algoritmos e métodos de buscas e navegação não precisa ser algo de outro mundo! </p>
 
 
 ## Introdução
