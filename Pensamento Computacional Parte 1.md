@@ -1,82 +1,83 @@
-# Computational Thinking :computer:
+# Pensamento Computacional :computer:
 
-<p> In this repository I walk through the area of ​​computational thinking and show you how to think computationally and learn algorithms and search and navigation methods doesn't have to be something out of this world! </p>
-
-
-## Introduction
-
-The first question we can ask ourselves when we come across the words _computational thinking_ is: what does it mean in practical terms?
-
-This is because many people believe that thinking computationally is performing a complex task, which involves a function requiring the use of a computerized machine.
-
-The term, despite implying such things, can be defined, according to researcher and vice president of Microsoft Research Jeannette Wing, as **the basis for the identification of problems and solutions that can be carried out by both processors and by human beings**.
-
-To understand the basis of computational thinking, let's think about the following: what do an electronic voting machine and a person preparing a cake recipe have in common?
-
-First, let's understand what electronic voting machines do, implemented as a means of voting for elections in Brazil since 1996. Electronic voting machines, using available technology, allow greater transparency in the election processes of countries with dimensions continents like ours and others around the world.
-
-Despite its simplicity in use, the electronic voting machine is a device that makes use of a computer technology that is not common to people's daily lives, so much so that it only appears in our environment in a few years, a few times.
-
-In order to assist voters in the process of understanding its use and for training in advance, the Superior Electoral Court (TSE), the government agency responsible for organizing and supervising elections, offers a voting simulator available [here](https:/ /www.tse.jus.br/eleicoes/urna-eletronica/simulacao-de-votacao).
-
-Now, when I think of a person (the same person who participates in elections and is part of a democratic system in Brazil) who would like to practice their culinary skills and make a chocolate cake, what could they have in common with this electronic device that is the urn mentioned above?
-
-For this, we need to establish what are the characteristics of computational thinking.
+<p> Neste repositório eu faço um walkthrough pela área de pensamento computacional e te mostro como pensar computacionalmente e aprender algoritmos e métodos de buscas e navegação não precisa ser algo de outro mundo! </p>
 
 
+## Introdução
 
-## Pillars of Computational Thinking
+A primeira pergunta que podemos nos fazer ao nos depararmos com as palavras _pensamento computacional_ é: o que isso significa, em termos práticos? 
 
-According to the definition of computational thinking given above, it is necessary to process a formula of thinking that expresses a solution in such a way that an agent, be it human or computer, can effectively solve it.
+Isso porque muitas pessoas acreditam que pensar computacionalmente é realizar uma tarefa complexa, que envolve uma função requerendo o uso de uma máquina computadorizada. 
 
-But for the solution to be computationally thought, there are some pillars that guide us to create strategies and help us in this task. Are they:
+O termo, apesar de dar a entender tais coisas, pode ser definido, de acordo com a pesquisadora e vice-presidente da Microsoft Research Jeannette Wing, como **a base para a identificação de problemas e soluções que podem ser efetivadas tanto por processadores quanto por seres humanos**. 
 
-1. **Decompose the problem**: decomposition is nothing less than dividing the problem into smaller parts and then combining the solution of these smaller problems and reconstructing it;
+Para compreender a base do pensamento computacional, pensemos o seguinte: o que uma urna eletrônica e uma pessoa preparando uma receita de bolo têm em comum?
 
-2. **Recurrent pattern recognition**: identify patterns found in more than one part of the problem, as well as find patterns in other problems that are known to solve (eg, to use the electronic voting machine, you have to press a sequence of number buttons and then a specific key to confirm, blank or correct)
+Primeiro, vamos entender o que fazem as urnas eletrônicas, implementadas como meio de votação para pleitos eleitorais no Brasil desde o ano de 1996. As urnas eletrônicas, utilizando-se da tecnologia disponível, permitem uma maior transparência nos processos de eleição de países com dimensões continentais como o nosso e outros ao redor do mundo.
 
-3. **Task abstraction and its input and output data (_inputs_ and _outputs_)**: list the tasks needed to solve the problem, the data needed for each task and the results produced by them.
+Apesar de sua simplicidade no uso, a urna eletrônica é um dispositivo que faz uso de uma tecnologia computacional que não é comum ao cotidiano das pessoas, tanto é que apenas aparece em nosso ambiente em alguns anos, poucas vezes.
 
-4. **Explain the problem solving algorithm:** finally, produce the algorithm in "a sequence of unambiguous instructions to solve a problem in order to produce, in a finite period of time, the corresponding output for any input legitimate".
+De forma a auxiliar os eleitores no processo de entendimento de seu uso e para treinamento com antecedência, o Tribunal Superior Eleitoral (TSE), órgão governamental responsável pela organização e fiscalização das eleições, oferece um simulador de voto disponível [aqui](https://www.tse.jus.br/eleicoes/urna-eletronica/simulacao-de-votacao).
 
-Returning to the examples of the electronic voting machine and the person preparing a cake recipe, in both cases all the pillars of computational thinking are carried out in order to perform the proposed tasks.
+Agora, ao pensar em uma pessoa (a mesma que participa de eleições e faz parte de um sistema democrático no Brasil) que gostaria de praticar suas habilidades culinárias e fazer um bolo de chocolate, o que ela poderia ter em comum com esse dispositivo eletrônico que é a urna, citada acima?
 
-For the electronic voting machine to work, you first need to **decompose** the task into subtasks: type the numbers one at a time and after that, press the correct key. If the number pressed is incorrect, it can be corrected by pressing the "correct" key. If the voter wishes to vote null, there is the possibility of pressing the "null" key. It is noticed that there is a **recurring pattern** in all these tasks, which is to use keys to execute them, in a certain order. We can also **abstract** such tasks so that we list what is needed to perform them, that is, to carry out the voting process. At the end of the day, it is remarkable that we have an established **algorithm**!
-
-Now, a person making a [chocolate cake recipe](https://www.panelinha.com.br/receita/Bolo-de-chocolate-com-ganache), in a similar way, needs to establish an algorithm to execute the proposed task, which is, in the end, to have a great cake to taste! For this, the task needs to be **decomposed** into smaller tasks, such as selecting the necessary ingredients and their quantities, utensils, etc. Also, the recipe needs to be followed in a certain **recurring pattern** for it to work, **abstracting** the subsequent actions and results after the listing is done.
-
-Thus, the pillars of computational thinking are applied to formulate problems and solve them, whether you are a person, whether you are a computer, a cell phone, a NASA computerized device, a group of people, etc. The step-by-step process is the same! And this is where the **algorithms** come in, explained below.
+Para isso, precisamos estabelecer quais são as características do pensamento computacional.
 
 
-## Algorithms
 
-When we think of algorithms, we may automatically think of math, things that we learned in elementary school and that we were actually taught from an early age. But why should it be complicated?
+## Pilares do Pensamento Computacional
 
-An algorithm is nothing more than a plan, a strategy or a set of instructions that aims to solve a problem or perform a certain task in a period of time.
+De acordo com a definição de pensamento computacional dada acima, é necessário processar uma fórmula de pensamento que expresse uma solução de tal forma que um agente, seja ele humano ou computador, possa efetivamente resolvê-lo.
 
-The formulation of an algorithm passes through the pillars of computational thinking of decomposition, recognition of recurrent patterns, abstraction.
+Mas para que a solução seja pensada computacionalmente, existem alguns pilares que nos guiam para criar estratégias e nos auxiliar nessa tarefa. São eles:
 
-There are several ways to write an algorithm, the most common being:
+1. **Decompor o problema**: a decomposição é nada menos que dividir o problema em partes menores para depois combinar a solução destes problemas menores e reconstruí-lo;
 
-+ diagram
+2. **Reconhecimento de padrões recorrentes**: identificar padrões encontrados em mais de uma parte do problema, assim como encontrar padrões em outros problemas que se sabe resolver (ex: para usar a urna eletrônica, é preciso apertar uma sequência de botões numéricos e depois uma tecla específica de confirma, branco ou corrige)
 
-+ Flowchart
+3. **Abstração de tarefas e seus dados de entrada e saída (_inputs_ e _outputs_)**: listar as tarefas necessárias para a resolução do problema, os dados necessários para cada tarefa e os resultados produzidos por elas.
 
-+ Pseudocode, or human language
+4. **Explicitar o algoritmo de resolução do problema:** por fim, produzir o algoritmo em "uma sequência de instruções não ambíguas para resolver um problema de forma a produzir, em um período de tempo finito, a saída correspondente para qualquer entrada legítima". 
 
-+ Code, or programming language (in this case, who will interpret your algorithm will be a computational agent)
+Retornando aos exemplos da urna eletrônica e da pessoa preparando uma receita de bolo, em ambos os casos todos os pilares do pensamento computacional são realizados a fim de executar as tarefas propostas.
 
-Some examples of common algorithms that we perform daily are: brushing our teeth, preparing a meal, driving a car, assembling a piece of furniture, writing a text or email, etc.
+Para a urna eletrônica funcionar, primeiro precisa-se **decompor** a tarefa em subtarefas: digitar os números um de cada vez e após isso, apertar a tecla corrige. Caso o número que se tenha apertado seja o incorreto, pode-se corrigir apertando a tecla "corrige". Caso o eleitor deseje votar nulo, existe a possibilidade de apertar a tecla "nulo". Percebe-se que há um **padrão recorrente** em todas estas tarefas, que é a de se utilizar teclas para executá-las, em uma determinada ordem. Também podemos **abstrair** tais tarefas de modo que listamos o que é necessário para executá-las, ou seja, realizar o processo de voto. Ao final de tudo, é notável que temos um **algoritmo** estabelecido!
 
-## Hands on! 🙌
+Agora, uma pessoa fazendo uma [receita de bolo de chocolate](https://www.panelinha.com.br/receita/Bolo-de-chocolate-com-ganache), de maneira semelhante, precisa estabelecer um algoritmo para executar a tarefa proposta, qual seja, a de ao final, ter um ótimo bolo para saborear! Para isso, a tarefa precisa ser **decomposta** em tarefas menores, como a de selecionar os ingredientes necessários e suas quantidades, utensílios, etc. Além disso, a receita precisa ser seguida em um determinado **padrão recorrente** para funcionar, **abstraindo** as ações e os resultados posteriores após a listagem feita. 
 
-Now that we understand how we can exercise our computational thinking process and build algorithms, why not test our skills with some hands-on exercises?
+Assim, os pilares de pensamento computacional são aplicados para formular problemas e resolvê-los, seja você uma pessoa, seja você um computador, um celular, um dispositivo computadorizado da NASA, um grupo de pessoas, etc. O processo de passo a passo é o mesmo! E é nesse momento que entram os **algoritmos**, explicados a seguir.
 
-Below I recommend some sites that can be useful in this journey of building a solid foundation of logic and programming logic, so that you become more than a good professional in the area of ​​Technology, but a person capable of solving problems and finding solutions. creative and focused on a rational logic for any type of problem.
+
+
+## Algoritmos
+
+Quando pensamos em algoritmos, podemos pensar automaticamente em matemática, coisas que aprendemos no ensino básico e que de fato nos foi ensinado desde cedo. Mas por que deveria ser complicado?
+
+Um algoritmo nada mais é do que um plano, uma estratégia ou um conjunto de instruções que tem como objetivo solucionar um problema ou executar uma determinada tarefa em um espaço de tempo. 
+
+A formulação de um algoritmo passa pelos pilares do pensamento computacional de decomposição, reconhecimento de padrões recorrentes, abstração.
+
+Para escrever um algoritmo existem várias formas, sendo elas as mais comuns:
+
++ Diagrama
+
++ Fluxograma
+
++ Pseudocódigo, ou linguagem humana
+
++ Código, ou linguagem de programação (neste caso, quem irá interpretar seu algoritmo será um agente computacional)
+
+Alguns exemplos de algoritmos comuns que diariamente realizamos são: escovar os dentes, preparar uma refeição, dirigir um automóvel, montar um móvel, escrever um texto ou e-mail, etc. 
+
+## Mãos na massa! 🙌
+
+Agora que compreendemos sobre como podemos exercitar o nosso processo de pensar computacionalmente e montar algoritmos, por que não testar nossas habilidades com alguns exercícios práticos?
+
+Abaixo recomendo alguns sites que podem ser úteis nessa jornada de construção de uma base sólida de lógica e lógica de programação, para que assim você se torne mais do que um bom profissional na área de Tecnologia, mas uma pessoa capaz de resolver problemas e encontrar soluções criativas e focadas em uma lógica racional para qualquer tipo de problema.
 
 + [ProjectEuler](https://projecteuler.net/)
 + [HackerRank](https://www.hackerrank.com/)
 + [CodeWars](https://www.codewars.com/)
 + [Codility](https://www.codility.com/)
 
-**Good studies and until the next module! Follow the project and leave a ⭐ to support it!**
+**Bons estudos e até o próximo módulo! Acompanhe o projeto e deixe a ⭐ para apoiá-lo!**
