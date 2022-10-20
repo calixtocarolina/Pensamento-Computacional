@@ -10,7 +10,7 @@ Sinta-se à vontade para contribuir e fazer _pull requests_ se entender necessá
 
 ## Sumário :book:
 
-+ [Introdução ao Pensamento Computacional](https://github.com/calixtocarolina/Pensamento-Computacional/blob/main/Pensamento%20Computacional%20Parte%201.md)
++ [Introdução ao Pensamento Computacional](https://github.com/calixtocarolina/Pensamento-Computacional/blob/main/Pensamento%20Computacional%20Parte%201.md) ([versão em inglês](https://github.com/calixtocarolina/Pensamento-Computacional/blob/main/en_US/Computational%20Thinking%20Part%201.md))
 + [Navegação, Pesquisa e Filtragem: abstraindo e exemplificando](https://github.com/calixtocarolina/Pensamento-Computacional/blob/main/Pensamento%20Computacional%20Parte%202.md)
 
 ## Requisitos :pencil:
