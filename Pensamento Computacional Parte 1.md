@@ -79,5 +79,6 @@ Abaixo recomendo alguns sites que podem ser úteis nessa jornada de construção
 + [HackerRank](https://www.hackerrank.com/)
 + [CodeWars](https://www.codewars.com/)
 + [Codility](https://www.codility.com/)
++ [Blockly Games](https://blockly.games/?lang=pt-br)
 
 **Bons estudos e até o próximo módulo! Acompanhe o projeto e deixe a ⭐ para apoiá-lo!**
