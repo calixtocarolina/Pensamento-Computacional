@@ -23,4 +23,4 @@ Nenhum requisito é necessário para ler e aprender com esse documento, mas reco
 
 ## Sobre a autora :dizzy:
 
-Meu nome é Carolina Calixto, sou desenvolvedora Front-End e Mobile e atualmente trabalho como estagiária de Produto em uma empresa de CyberSegurança. Estou cursando Tecnologia da Informação e amo pesquisar e criar conteúdos informativos e compartilhar aprendizado. Caso queira, entre em contato comigo pelo GitHub ou por uma de minhas redes sociais!
+Meu nome é Carolina Calixto, sou desenvolvedora Mobile e atualmente trabalho como Desenvolvedora Mobile em uma empresa de Consultoria e Desenvolvimento. Estou cursando Tecnologia da Informação e amo pesquisar e criar conteúdos informativos e compartilhar aprendizado. Caso queira, entre em contato comigo pelo GitHub ou por uma de minhas redes sociais!
