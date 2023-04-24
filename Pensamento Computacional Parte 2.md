@@ -82,7 +82,7 @@ Ao final dos anos 1990, o primeiro website já estava disponível na web, em dom
 
 Primeiro website:
 
-![Imagem do primeiro website](C:\Users\calix\Downloads\WWW.png)
+![Imagem do primeiro website](https://linhadefensiva.files.wordpress.com/2013/04/primeirowww12.jpg)
 
 Primeiro navegador (que também era um editor):
 
